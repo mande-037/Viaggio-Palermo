@@ -63,6 +63,10 @@ button:hover {
     box-shadow: 0 6px 16px rgba(0, 0, 0, 0.25);
 }
 
+img {
+    border-radius: 12px;
+    box-shadow: 0 5px 10px rgb(19, 79, 95, 0.5);
+}
 
 a:link {
     color:#2585a5;
